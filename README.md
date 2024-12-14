@@ -65,6 +65,9 @@
 
 ![empd 5 3](https://github.com/user-attachments/assets/72d163c7-c51c-4da0-b22e-1d3282e0cfc5)
 
+![empd spl](https://github.com/user-attachments/assets/07423630-76f2-4258-81ce-c51fdbfcec3a)
+
+
 ![empd 5 4](https://github.com/user-attachments/assets/b80bd8b6-f60a-4bf1-aa97-faa679b7e952)
 
 ### Name: E HEMACHANDRAN 
