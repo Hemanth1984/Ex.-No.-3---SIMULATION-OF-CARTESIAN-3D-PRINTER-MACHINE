@@ -59,9 +59,16 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![empd 5](https://github.com/user-attachments/assets/51db5a8f-4d17-4dc1-a4a1-7f6f1ea459eb)
 
-### Name: 
-### Register Number:
+![empd 5 2](https://github.com/user-attachments/assets/ba4a6614-a6e1-4c68-aecf-9cb5d5b80859)
+
+![empd 5 3](https://github.com/user-attachments/assets/72d163c7-c51c-4da0-b22e-1d3282e0cfc5)
+
+![empd 5 4](https://github.com/user-attachments/assets/b80bd8b6-f60a-4bf1-aa97-faa679b7e952)
+
+### Name: E HEMACHANDRAN 
+### Register Number: 24003784
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
